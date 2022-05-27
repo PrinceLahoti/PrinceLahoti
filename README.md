@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrinceLahoti.I am a student at St. Michael's School in Siliguri, West Bengal.
+- 👋 Hi, I’m @Garuda.I am a student at St. Michael's School in Siliguri, West Bengal.
 - 👀 I’m interested in Technologies and Computer Science.
 
 <!---
